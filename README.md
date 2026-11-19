@@ -309,8 +309,8 @@ The CSV contains the extracted track name, artist, album, total album track coun
 
 THARIKA D
 
-- GitHub: [Your GitHub Profile](https://github.com/Tharika2004)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tharika-d/)
+- GitHub: [My GitHub Profile](https://github.com/Tharika2004)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tharika-d/)
 
 ---
 
