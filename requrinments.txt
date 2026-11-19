@@ -1,0 +1,4 @@
+spotipy
+mysql-connector-python
+pandas
+matplotlib
